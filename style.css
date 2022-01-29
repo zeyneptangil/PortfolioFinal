@@ -32,6 +32,13 @@ p {
   line-height: 1.5;
 }
 
+.nav-item {
+  font-family: "Shadows Into Light";
+}
+.navbar-brand {
+  font-family: "Shadows Into Light";
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
