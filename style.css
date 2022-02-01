@@ -96,6 +96,19 @@ p {
   text-decoration: underline;
 }
 
+.social-links a {
+  color: var(--primary-color);
+  margin: 0 10px 20px 10px;
+  font-size: 20px;
+  background-color: var(--secondary-color);
+  padding: 10px 14px;
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
+}
+.social-links a:hover {
+  color: white;
+  background-color: var(--primary-color);
+}
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
