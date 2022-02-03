@@ -80,10 +80,6 @@ p {
   margin: 10px;
 }
 
-.about-me p {
-  text-align: justify;
-}
-
 .email-link {
   display: flex;
   justify-content: center;
